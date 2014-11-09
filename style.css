@@ -2,11 +2,24 @@
  head {
 	font-family: 'Roboto Slab', serif;
 	color: #665544;
-	text-align: center;}
+	text-align: left;} 
+
 body {
 	background-image: url("https://dl.dropboxusercontent.com/u/56647563/cubes/cubes.png"); 
 	font-family: 'Roboto Slab', serif;
 	color: #665544;
-	text-align: center;
-}
+	text-align: left;
+	padding-left: 150px;
+	padding-right: 150px;}
 	
+li {
+	list-style: none;
+	display: inline-block;
+	width: 24%;
+	text-align: center;}
+
+li a:link, li a:visited {
+	color: black;}
+
+div {
+	border-top: 1px solid black;}
