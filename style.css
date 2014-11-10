@@ -24,5 +24,9 @@ li a:link, li a:visited {
 div {
 	border-top: 1px solid black;}
 
-link {
+a:link {
 	color: black;}
+
+a:visited {
+	color: black}
+
