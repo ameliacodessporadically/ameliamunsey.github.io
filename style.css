@@ -6,6 +6,7 @@
 
 body {
 	background-image: url("sea.jpeg"); 
+	background-size: cover;
 	font-family: 'Roboto Slab', serif;
 	color: #665544;
 	text-align: left;
