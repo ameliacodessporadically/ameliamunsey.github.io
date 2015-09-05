@@ -11,7 +11,8 @@ body {
 	color: #665544;
 	text-align: left;
 	padding-left: 150px;
-	padding-right: 150px;}
+	padding-right: 150px;
+	width: 100%;}
 	
 li {
 	list-style: none;
