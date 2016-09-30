@@ -4,12 +4,11 @@
 	color: #665544;
 	text-align: left;} 
 
-body {
-	background-image: url("sea.jpeg"); 
+body { 
 	background-size: cover;
 	font-family: 'Roboto Slab', serif;
 	color: #665544;
-	text-align: left;
+	text-align: center;
 	padding-left: 150px;
 	padding-right: 150px;
 	width: 100%;}
