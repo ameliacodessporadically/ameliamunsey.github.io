@@ -6,24 +6,24 @@
 
 body { 
 	background-size: cover;
-	font-family: 'Roboto Slab', serif;
+	font-family: 'helvetica', sans-serif;
 	color: #665544;
 	text-align: center;
-	padding-left: 150px;
-	padding-right: 150px;
+	padding-left: 0px;
+	padding-right: 0px;
 	width: 100%;}
 	
 li {
 	list-style: none;
 	display: inline-block;
-	width: 24%;
+	width: 20%;
 	text-align: center;}
 
 li a:link, li a:visited {
 	color: black;}
 
 div {
-	border-top: 1px solid black;}
+	border-top: 1px solid black;}	
 
 a:link {
 	color: black;}
